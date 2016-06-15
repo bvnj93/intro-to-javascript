@@ -1,4 +1,3 @@
-ourTypes = { //This is a single line comment.
   // So first thing's first, let's talk comments. There are two ways to create a comment in Javascript.
   // This is a single-line comment. Whatever is written after two slashes will be ignored by the JS interpreter.
   // Single line comments can also follow code, as on line 1. 
@@ -101,6 +100,11 @@ ourTypes = { //This is a single line comment.
 
   aNumber: '123'
 };
+
+var example;
+
+example = 0;
+
 /******************
 Now for the fun bit! There was some code to get you started on the last section.
 For this section, read the tests (either in the test/spec.js file, or right there in the browser). Figure out what the tests are looking for, and make them pass.
